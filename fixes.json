@@ -1,0 +1,5383 @@
+[
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 2,
+  "fix": "vendor item",
+  "line": "collect 2594 quest 288.1",
+  "newLine": "buy 2594 x1 npc 1464",
+  "item": 2594,
+  "itemName": "Flagon of Mead",
+  "quest": 288,
+  "was": "collect from Malgin Barleybrew on map 1413",
+  "now": "buy from Innkeeper Helbrek (npc 1464) on map 1437, as forever/alliance/07-thousand-needles"
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 8,
+  "fix": "vendor item",
+  "line": "collect 4371 quest 174.1",
+  "newLine": "buy 4371 x1 npc 3133",
+  "item": 4371,
+  "itemName": "Bronze Tube",
+  "quest": 174,
+  "was": "collect from XT:4, XT:9 on map 1442",
+  "now": "buy from Herble Baubbletump (npc 3133) on map 1431, as forever/alliance/05-duskwood"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 3,
+  "fix": "only",
+  "lines": [
+   "accept 3106 only Dwarf,Warrior",
+   "accept 3109 only Dwarf,Rogue",
+   "accept 3110 only Dwarf,Priest",
+   "accept 3107 only Paladin",
+   "accept 3108 only Hunter",
+   "accept 3114 only Mage",
+   "accept 3112 only Gnome,Warrior",
+   "accept 3115 only Warlock",
+   "accept 3113 only Gnome,Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 3106 only Dwarf,Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 3109 only Dwarf,Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 3110 only Dwarf,Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 11,
+  "fix": "only",
+  "lines": [
+   "turnin 3107 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 12,
+  "fix": "only",
+  "lines": [
+   "turnin 3108 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 13,
+  "fix": "only",
+  "lines": [
+   "turnin 3112 only Gnome,Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 14,
+  "fix": "only",
+  "lines": [
+   "turnin 3113 only Gnome,Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 15,
+  "fix": "only",
+  "lines": [
+   "turnin 3114 only Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 16,
+  "fix": "only",
+  "lines": [
+   "turnin 3115 only Warlock",
+   "accept 1599 only Warlock",
+   "collect 6753 x3 quest 1599.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 23,
+  "fix": "only",
+  "lines": [
+   "turnin 1599 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 66,
+  "fix": "only",
+  "lines": [
+   "accept 6064 only Hunter",
+   "kill 1126 quest 6064.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 68,
+  "fix": "only",
+  "lines": [
+   "turnin 6064 only Hunter",
+   "accept 6084 only Hunter",
+   "kill 1201 quest 6084.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 70,
+  "fix": "only",
+  "lines": [
+   "turnin 6084 only Hunter",
+   "accept 6085 only Hunter",
+   "kill 1196 quest 6085.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 72,
+  "fix": "only",
+  "lines": [
+   "turnin 6085 only Hunter",
+   "accept 6086 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 73,
+  "fix": "only",
+  "lines": [
+   "turnin 6086 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 77,
+  "fix": "only",
+  "lines": [
+   "accept 1715 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 78,
+  "fix": "only",
+  "lines": [
+   "turnin 1715 only Warlock",
+   "accept 1688 only Warlock",
+   "collect 6810 quest 1688.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 80,
+  "fix": "only",
+  "lines": [
+   "turnin 1688 only Warlock",
+   "accept 1689 only Warlock",
+   "kill 5676 quest 1689.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 82,
+  "fix": "only",
+  "lines": [
+   "turnin 1689 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 83,
+  "fix": "only",
+  "lines": [
+   "accept 5635 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 101,
+  "fix": "only",
+  "lines": [
+   "accept 6387 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 107,
+  "fix": "only",
+  "lines": [
+   "turnin 6387 only Paladin",
+   "accept 6391 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 109,
+  "fix": "only",
+  "lines": [
+   "turnin 6391 only Paladin",
+   "accept 6388 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 110,
+  "fix": "only",
+  "lines": [
+   "turnin 6388 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 114,
+  "fix": "only",
+  "lines": [
+   "accept 1646 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 116,
+  "fix": "only",
+  "lines": [
+   "turnin 1646 only Paladin",
+   "accept 1647 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 117,
+  "fix": "only",
+  "lines": [
+   "turnin 1647 only Paladin",
+   "accept 1648 only Paladin",
+   "collect 2589 x10 quest 1648.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 119,
+  "fix": "only",
+  "lines": [
+   "turnin 1648 only Paladin",
+   "accept 1778 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 120,
+  "fix": "only",
+  "lines": [
+   "turnin 1778 only Paladin",
+   "accept 1779 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 121,
+  "fix": "only",
+  "lines": [
+   "turnin 1779 only Paladin",
+   "accept 1783 only Paladin",
+   "kill 6177 quest 1783.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 123,
+  "fix": "only",
+  "lines": [
+   "turnin 1783 only Paladin",
+   "accept 1784 only Paladin",
+   "collect 6847 quest 1784.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 124,
+  "fix": "only",
+  "lines": [
+   "turnin 1784 only Paladin",
+   "accept 1785 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 125,
+  "fix": "only",
+  "lines": [
+   "turnin 1785 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 131,
+  "fix": "only",
+  "lines": [
+   "turnin 5635 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "accept 3104 only Mage",
+   "accept 3100 only Warrior",
+   "accept 3105 only Warlock",
+   "accept 3102 only Rogue",
+   "accept 3103 only Priest",
+   "accept 3101 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 3104 only Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 3100 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 11,
+  "fix": "only",
+  "lines": [
+   "turnin 3101 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 12,
+  "fix": "only",
+  "lines": [
+   "turnin 3103 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 14,
+  "fix": "only",
+  "lines": [
+   "turnin 3105 only Warlock",
+   "accept 1598 only Warlock",
+   "collect 6785 quest 1598.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 15,
+  "fix": "only",
+  "lines": [
+   "turnin 3102 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 16,
+  "fix": "only",
+  "lines": [
+   "turnin 1598 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 65,
+  "fix": "only",
+  "lines": [
+   "accept 1638 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 66,
+  "fix": "only",
+  "lines": [
+   "accept 1685 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 69,
+  "fix": "only",
+  "lines": [
+   "turnin 1638 only Warrior",
+   "accept 1639 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 70,
+  "fix": "only",
+  "lines": [
+   "turnin 1639 only Warrior",
+   "accept 1640 only Warrior",
+   "kill 6090 quest 1640.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 71,
+  "fix": "only",
+  "lines": [
+   "turnin 1640 only Warrior",
+   "accept 1665 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 72,
+  "fix": "only",
+  "lines": [
+   "turnin 1665 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 73,
+  "fix": "only",
+  "lines": [
+   "turnin 1685 only Warlock",
+   "accept 1688 only Warlock",
+   "collect 6810 quest 1688.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 75,
+  "fix": "only",
+  "lines": [
+   "turnin 1688 only Warlock",
+   "accept 1689 only Warlock",
+   "kill 5676 quest 1689.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 77,
+  "fix": "only",
+  "lines": [
+   "turnin 1689 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 106,
+  "fix": "only",
+  "lines": [
+   "accept 2998 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 107,
+  "fix": "only",
+  "lines": [
+   "turnin 2998 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 109,
+  "fix": "only",
+  "lines": [
+   "accept 1642 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 110,
+  "fix": "only",
+  "lines": [
+   "turnin 1642 only Paladin",
+   "accept 1643 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 111,
+  "fix": "only",
+  "lines": [
+   "turnin 1643 only Paladin",
+   "accept 1644 only Paladin",
+   "collect 2589 x10 quest 1644.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 113,
+  "fix": "only",
+  "lines": [
+   "turnin 1644 only Paladin",
+   "accept 1780 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 114,
+  "fix": "only",
+  "lines": [
+   "turnin 1780 only Paladin",
+   "accept 1781 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 115,
+  "fix": "only",
+  "lines": [
+   "turnin 1781 only Paladin",
+   "accept 1786 only Paladin",
+   "kill 6172 quest 1786.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 117,
+  "fix": "only",
+  "lines": [
+   "turnin 1786 only Paladin",
+   "accept 1787 only Paladin",
+   "collect 6846 quest 1787.1 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 118,
+  "fix": "only",
+  "lines": [
+   "turnin 1787 only Paladin",
+   "accept 1788 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 119,
+  "fix": "only",
+  "lines": [
+   "turnin 1788 only Paladin"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "accept 3116 only Warrior",
+   "accept 3118 only Rogue",
+   "accept 3119 only Priest",
+   "accept 3117 only Hunter",
+   "accept 3120 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 6,
+  "fix": "only",
+  "lines": [
+   "turnin 3116 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 7,
+  "fix": "only",
+  "lines": [
+   "turnin 3118 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 3119 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 3117 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 3120 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 69,
+  "fix": "only",
+  "lines": [
+   "accept 5629 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 70,
+  "fix": "only",
+  "lines": [
+   "accept 6063 only Hunter",
+   "kill 1998 quest 6063.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 72,
+  "fix": "only",
+  "lines": [
+   "turnin 6063 only Hunter",
+   "accept 6101 only Hunter",
+   "kill 2043 quest 6101.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 74,
+  "fix": "only",
+  "lines": [
+   "turnin 6101 only Hunter",
+   "accept 6102 only Hunter",
+   "kill 1996 quest 6102.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 76,
+  "fix": "only",
+  "lines": [
+   "turnin 6102 only Hunter",
+   "accept 6103 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 77,
+  "fix": "only",
+  "lines": [
+   "turnin 6103 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 79,
+  "fix": "only",
+  "lines": [
+   "accept 5921 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 80,
+  "fix": "only",
+  "lines": [
+   "turnin 5921 only Druid",
+   "accept 5929 only Druid",
+   "kill 11956 quest 5929.1 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 82,
+  "fix": "only",
+  "lines": [
+   "turnin 5929 only Druid",
+   "accept 5931 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 84,
+  "fix": "only",
+  "lines": [
+   "turnin 5931 only Druid",
+   "accept 6001 only Druid",
+   "kill 12144 quest 6001.1 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 86,
+  "fix": "only",
+  "lines": [
+   "turnin 6001 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 95,
+  "fix": "only",
+  "lines": [
+   "turnin 5629 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 36,
+  "fix": "only",
+  "lines": [
+   "accept 6121 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 37,
+  "fix": "only",
+  "lines": [
+   "turnin 6121 only NightElf,Druid",
+   "accept 6122 only NightElf,Druid",
+   "collect 15845 quest 6122.1 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 39,
+  "fix": "only",
+  "lines": [
+   "turnin 6122 only NightElf,Druid",
+   "accept 6123 only NightElf,Druid",
+   "collect 15851 x12 quest 6123.2 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 40,
+  "fix": "only",
+  "lines": [
+   "turnin 6123 only NightElf,Druid",
+   "accept 6124 only NightElf,Druid",
+   "kill 12298 x10 quest 6124.1 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 42,
+  "fix": "only",
+  "lines": [
+   "turnin 6124 only NightElf,Druid",
+   "accept 6125 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 43,
+  "fix": "only",
+  "lines": [
+   "turnin 6125 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 74,
+  "fix": "only",
+  "lines": [
+   "accept 26 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 75,
+  "fix": "only",
+  "lines": [
+   "turnin 26 only NightElf,Druid",
+   "accept 29 only NightElf,Druid",
+   "interact 15885 quest 29.1 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/05-darkshore-12-20",
+  "step": 77,
+  "fix": "only",
+  "lines": [
+   "turnin 29 only NightElf,Druid",
+   "accept 272 only NightElf,Druid",
+   "collect 15885 quest 272.1 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/06-loch-modan-17-18",
+  "step": 33,
+  "fix": "only",
+  "lines": [
+   "turnin 272 only NightElf,Druid",
+   "accept 5061 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/06-loch-modan-17-18",
+  "step": 34,
+  "fix": "only",
+  "lines": [
+   "turnin 5061 only NightElf,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/07-redridge-mountains-18-24",
+  "step": 31,
+  "fix": "only",
+  "lines": [
+   "accept 1716 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/07-redridge-mountains-18-24",
+  "step": 33,
+  "fix": "only",
+  "lines": [
+   "turnin 1716 only Warlock",
+   "accept 1738 only Warlock",
+   "collect 6912 quest 1738.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/07-redridge-mountains-18-24",
+  "step": 34,
+  "fix": "only",
+  "lines": [
+   "turnin 1738 only Warlock",
+   "accept 1739 only Warlock",
+   "kill 5677 quest 1739.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/07-redridge-mountains-18-24",
+  "step": 36,
+  "fix": "only",
+  "lines": [
+   "turnin 1739 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 52,
+  "fix": "only",
+  "lines": [
+   "accept 2360 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 54,
+  "fix": "only",
+  "lines": [
+   "turnin 2360 only Rogue",
+   "accept 2359 only Rogue",
+   "collect 7923 quest 2359.2 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 55,
+  "fix": "only",
+  "lines": [
+   "turnin 2359 only Rogue",
+   "accept 2607 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 56,
+  "fix": "only",
+  "lines": [
+   "turnin 2607 only Rogue",
+   "accept 2608 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 57,
+  "fix": "only",
+  "lines": [
+   "turnin 2608 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 68,
+  "fix": "only",
+  "lines": [
+   "accept 1718 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/19-ashenvale-30-32",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "turnin 1718 only Warrior",
+   "accept 1719 only Warrior",
+   "kill 6238 quest 1719.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/19-ashenvale-30-32",
+  "step": 6,
+  "fix": "only",
+  "lines": [
+   "turnin 1719 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 2,
+  "fix": "only",
+  "lines": [
+   "accept 1485 only Warlock",
+   "collect 6487 x6 quest 1485.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "accept 792 only Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Mage,Druid",
+   "kill 3101 x12 quest 792.1 only Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Mage,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 6,
+  "fix": "only",
+  "lines": [
+   "accept 2383 only Orc,Warrior",
+   "accept 3089 only Orc,Shaman",
+   "accept 3088 only Orc,Rogue",
+   "accept 3087 only Orc,Hunter",
+   "accept 3090 only Orc,Warlock",
+   "accept 3065 only Troll,Warrior",
+   "accept 3082 only Troll,Hunter",
+   "accept 3083 only Troll,Rogue",
+   "accept 3085 only Troll,Priest",
+   "accept 3084 only Troll,Shaman",
+   "accept 3086 only Troll,Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 7,
+  "fix": "only",
+  "lines": [
+   "turnin 3088 only Orc,Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 3083 only Troll,Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 3090 only Orc,Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 11,
+  "fix": "only",
+  "lines": [
+   "turnin 3085 only Troll,Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 12,
+  "fix": "only",
+  "lines": [
+   "turnin 2383 only Orc,Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 13,
+  "fix": "only",
+  "lines": [
+   "turnin 3065 only Troll,Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 14,
+  "fix": "only",
+  "lines": [
+   "turnin 3089 only Orc,Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 15,
+  "fix": "only",
+  "lines": [
+   "turnin 3084 only Troll,Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 16,
+  "fix": "only",
+  "lines": [
+   "turnin 3087 only Orc,Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 17,
+  "fix": "only",
+  "lines": [
+   "turnin 3082 only Troll,Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 18,
+  "fix": "only",
+  "lines": [
+   "turnin 3086 only Troll,Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 22,
+  "fix": "only",
+  "lines": [
+   "turnin 1485 only Warlock",
+   "accept 1499 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 23,
+  "fix": "only",
+  "lines": [
+   "turnin 1499 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 32,
+  "fix": "only",
+  "lines": [
+   "turnin 792 only Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Mage,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 33,
+  "fix": "only",
+  "lines": [
+   "accept 1516 only Shaman",
+   "collect 6640 x2 quest 1516.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 36,
+  "fix": "only",
+  "lines": [
+   "turnin 1516 only Shaman",
+   "accept 1517 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 37,
+  "fix": "only",
+  "lines": [
+   "turnin 1517 only Shaman",
+   "accept 1518 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 38,
+  "fix": "only",
+  "lines": [
+   "turnin 1518 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 66,
+  "fix": "only",
+  "lines": [
+   "accept 1505 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 67,
+  "fix": "only",
+  "lines": [
+   "turnin 1505 only Warrior",
+   "accept 1498 only Warrior",
+   "collect 6486 x5 quest 1498.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 68,
+  "fix": "only",
+  "lines": [
+   "turnin 1498 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 69,
+  "fix": "only",
+  "lines": [
+   "accept 1506 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 70,
+  "fix": "only",
+  "lines": [
+   "turnin 1506 only Warlock",
+   "accept 1501 only Warlock",
+   "collect 6535 quest 1501.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 71,
+  "fix": "only",
+  "lines": [
+   "turnin 1501 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 73,
+  "fix": "only",
+  "lines": [
+   "accept 2983 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 74,
+  "fix": "only",
+  "lines": [
+   "turnin 2983 only Shaman",
+   "accept 1524 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 75,
+  "fix": "only",
+  "lines": [
+   "turnin 1524 only Shaman",
+   "accept 1525 only Shaman",
+   "collect 6652 quest 1525.2 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 76,
+  "fix": "only",
+  "lines": [
+   "turnin 1525 only Shaman",
+   "accept 1526 only Shaman",
+   "collect 6655 quest 1526.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 78,
+  "fix": "only",
+  "lines": [
+   "turnin 1526 only Shaman",
+   "accept 1527 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 79,
+  "fix": "only",
+  "lines": [
+   "turnin 1527 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 80,
+  "fix": "only",
+  "lines": [
+   "accept 6062 only Hunter",
+   "kill 3099 quest 6062.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 82,
+  "fix": "only",
+  "lines": [
+   "turnin 6062 only Hunter",
+   "accept 6083 only Hunter",
+   "kill 3107 quest 6083.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 84,
+  "fix": "only",
+  "lines": [
+   "turnin 6083 only Hunter",
+   "accept 6082 only Hunter",
+   "kill 3126 quest 6082.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 86,
+  "fix": "only",
+  "lines": [
+   "turnin 6082 only Hunter",
+   "accept 6081 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 87,
+  "fix": "only",
+  "lines": [
+   "turnin 6081 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 88,
+  "fix": "only",
+  "lines": [
+   "accept 5652 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 89,
+  "fix": "only",
+  "lines": [
+   "turnin 5652 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "accept 3091 only Warrior",
+   "accept 3093 only Shaman",
+   "accept 3092 only Hunter",
+   "accept 3094 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 6,
+  "fix": "only",
+  "lines": [
+   "turnin 3093 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 7,
+  "fix": "only",
+  "lines": [
+   "turnin 3094 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 3091 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 3092 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 17,
+  "fix": "only",
+  "lines": [
+   "accept 1519 only Shaman",
+   "collect 6634 x2 quest 1519.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 20,
+  "fix": "only",
+  "lines": [
+   "turnin 1519 only Shaman",
+   "accept 1520 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 22,
+  "fix": "only",
+  "lines": [
+   "turnin 1520 only Shaman",
+   "accept 1521 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 23,
+  "fix": "only",
+  "lines": [
+   "turnin 1521 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 58,
+  "fix": "only",
+  "lines": [
+   "accept 1505 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 61,
+  "fix": "only",
+  "lines": [
+   "turnin 1505 only Warrior",
+   "accept 1498 only Warrior",
+   "collect 6486 x5 quest 1498.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 62,
+  "fix": "only",
+  "lines": [
+   "turnin 1498 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 66,
+  "fix": "only",
+  "lines": [
+   "accept 1524 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 67,
+  "fix": "only",
+  "lines": [
+   "turnin 1524 only Shaman",
+   "accept 1525 only Shaman",
+   "collect 6652 quest 1525.2 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 68,
+  "fix": "only",
+  "lines": [
+   "turnin 1525 only Shaman",
+   "accept 1526 only Shaman",
+   "collect 6655 quest 1526.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 70,
+  "fix": "only",
+  "lines": [
+   "turnin 1526 only Shaman",
+   "accept 1527 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 71,
+  "fix": "only",
+  "lines": [
+   "turnin 1527 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 72,
+  "fix": "only",
+  "lines": [
+   "accept 6061 only Hunter",
+   "kill 2956 quest 6061.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 74,
+  "fix": "only",
+  "lines": [
+   "turnin 6061 only Hunter",
+   "accept 6087 only Hunter",
+   "kill 2959 quest 6087.1 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 76,
+  "fix": "only",
+  "lines": [
+   "turnin 6087 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 78,
+  "fix": "only",
+  "lines": [
+   "accept 6088 only Hunter optional",
+   "kill 2970 quest 6088.1 only Hunter",
+   "turnin 6088 only Hunter optional"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 79,
+  "fix": "only",
+  "lines": [
+   "accept 6089 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 80,
+  "fix": "only",
+  "lines": [
+   "turnin 6089 only Hunter"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 81,
+  "fix": "only",
+  "lines": [
+   "accept 5926 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 82,
+  "fix": "only",
+  "lines": [
+   "turnin 5926 only Druid",
+   "accept 5922 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 83,
+  "fix": "only",
+  "lines": [
+   "turnin 5922 only Druid",
+   "accept 5930 only Druid",
+   "kill 11956 quest 5930.1 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 86,
+  "fix": "only",
+  "lines": [
+   "turnin 5930 only Druid",
+   "accept 5932 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 87,
+  "fix": "only",
+  "lines": [
+   "turnin 5932 only Druid",
+   "accept 6002 only Druid",
+   "kill 12144 quest 6002.1 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 89,
+  "fix": "only",
+  "lines": [
+   "turnin 6002 only Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 3,
+  "fix": "only",
+  "lines": [
+   "accept 1470 only Warlock",
+   "collect 6281 x3 quest 1470.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "accept 3095 only Warrior",
+   "accept 3099 only Warlock",
+   "accept 3096 only Rogue",
+   "accept 3097 only Priest",
+   "accept 3098 only Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 7,
+  "fix": "only",
+  "lines": [
+   "turnin 3095 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 3099 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 1470 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 3096 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 11,
+  "fix": "only",
+  "lines": [
+   "turnin 3097 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 12,
+  "fix": "only",
+  "lines": [
+   "turnin 3098 only Mage"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 57,
+  "fix": "only",
+  "lines": [
+   "accept 5658 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 58,
+  "fix": "only",
+  "lines": [
+   "turnin 5658 only Priest"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 60,
+  "fix": "only",
+  "lines": [
+   "accept 1473 only Warlock",
+   "collect 6285 quest 1473.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 61,
+  "fix": "only",
+  "lines": [
+   "turnin 1473 only Warlock",
+   "accept 1471 only Warlock",
+   "kill 5676 quest 1471.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 63,
+  "fix": "only",
+  "lines": [
+   "turnin 1471 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 65,
+  "fix": "only",
+  "lines": [
+   "accept 1819 only Warrior",
+   "kill 6390 quest 1819.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 66,
+  "fix": "only",
+  "lines": [
+   "turnin 1819 only Warrior",
+   "accept 1820 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 67,
+  "fix": "only",
+  "lines": [
+   "turnin 1820 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 25,
+  "fix": "only",
+  "lines": [
+   "accept 6126 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 26,
+  "fix": "only",
+  "lines": [
+   "turnin 6126 only Tauren,Druid",
+   "accept 6127 only Tauren,Druid",
+   "collect 15843 quest 6127.1 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 28,
+  "fix": "only",
+  "lines": [
+   "turnin 6127 only Tauren,Druid",
+   "accept 6128 only Tauren,Druid",
+   "collect 15852 x5 quest 6128.2 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 29,
+  "fix": "only",
+  "lines": [
+   "turnin 6128 only Tauren,Druid",
+   "accept 6129 only Tauren,Druid",
+   "kill 12296 x10 quest 6129.1 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 31,
+  "fix": "only",
+  "lines": [
+   "turnin 6129 only Tauren,Druid",
+   "accept 6130 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 32,
+  "fix": "only",
+  "lines": [
+   "turnin 6130 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 2,
+  "fix": "only",
+  "lines": [
+   "accept 27 only Tauren,Druid optional",
+   "turnin 27 only Tauren,Druid optional"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 3,
+  "fix": "only",
+  "lines": [
+   "accept 28 only Tauren,Druid",
+   "interact 15885 quest 28.1 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "turnin 28 only Tauren,Druid",
+   "accept 30 only Tauren,Druid",
+   "collect 15885 quest 30.1 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 30 only Tauren,Druid",
+   "accept 31 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "turnin 31 only Tauren,Druid"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 52,
+  "fix": "only",
+  "lines": [
+   "accept 1507 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 53,
+  "fix": "only",
+  "lines": [
+   "turnin 1507 only Warlock",
+   "accept 1508 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 54,
+  "fix": "only",
+  "lines": [
+   "turnin 1508 only Warlock",
+   "accept 1509 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 55,
+  "fix": "only",
+  "lines": [
+   "turnin 1509 only Warlock",
+   "accept 1510 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 56,
+  "fix": "only",
+  "lines": [
+   "turnin 1510 only Warlock",
+   "accept 1511 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 57,
+  "fix": "only",
+  "lines": [
+   "turnin 1511 only Warlock",
+   "accept 1515 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 58,
+  "fix": "only",
+  "lines": [
+   "turnin 1515 only Warlock",
+   "accept 1512 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 59,
+  "fix": "only",
+  "lines": [
+   "turnin 1512 only Warlock",
+   "accept 1513 only Warlock",
+   "kill 5677 quest 1513.1 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 61,
+  "fix": "only",
+  "lines": [
+   "turnin 1513 only Warlock"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 1,
+  "fix": "only",
+  "lines": [
+   "accept 1528 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 2,
+  "fix": "only",
+  "lines": [
+   "turnin 1528 only Shaman",
+   "accept 1530 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 3,
+  "fix": "only",
+  "lines": [
+   "turnin 1530 only Shaman",
+   "accept 1535 only Shaman",
+   "collect 7769 quest 1535.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 5,
+  "fix": "only",
+  "lines": [
+   "turnin 1535 only Shaman",
+   "accept 1536 only Shaman",
+   "collect 7771 quest 1536.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 1536 only Shaman",
+   "accept 1534 only Shaman",
+   "collect 7770 quest 1534.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 3,
+  "fix": "only",
+  "lines": [
+   "turnin 1534 only Shaman",
+   "accept 220 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 4,
+  "fix": "only",
+  "lines": [
+   "turnin 220 only Shaman",
+   "accept 63 only Shaman",
+   "collect 7812 quest 63.1 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 6,
+  "fix": "only",
+  "lines": [
+   "turnin 63 only Shaman",
+   "accept 100 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 7,
+  "fix": "only",
+  "lines": [
+   "turnin 100 only Shaman",
+   "accept 96 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 8,
+  "fix": "only",
+  "lines": [
+   "turnin 96 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 28,
+  "fix": "only",
+  "lines": [
+   "accept 2460 only Rogue",
+   "kill 3401 quest 2460.1 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 29,
+  "fix": "only",
+  "lines": [
+   "turnin 2460 only Rogue",
+   "accept 2458 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 31,
+  "fix": "only",
+  "lines": [
+   "turnin 2458 only Rogue",
+   "accept 2478 only Rogue",
+   "kill 7308 x2 quest 2478.3 only Rogue",
+   "collect 8073 quest 2478.6 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 32,
+  "fix": "only",
+  "lines": [
+   "turnin 2478 only Rogue",
+   "accept 2479 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 36,
+  "fix": "only",
+  "lines": [
+   "turnin 2479 only Rogue",
+   "accept 2480 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 37,
+  "fix": "only",
+  "lines": [
+   "turnin 2480 only Rogue"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/18-arathi-highlands-30-34",
+  "step": 9,
+  "fix": "only",
+  "lines": [
+   "accept 1718 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/18-arathi-highlands-30-34",
+  "step": 10,
+  "fix": "only",
+  "lines": [
+   "turnin 1718 only Warrior",
+   "accept 1719 only Warrior",
+   "kill 6238 quest 1719.1 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/18-arathi-highlands-30-34",
+  "step": 11,
+  "fix": "only",
+  "lines": [
+   "turnin 1719 only Warrior"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/18-arathi-highlands-30-34",
+  "step": 12,
+  "fix": "only",
+  "lines": [
+   "accept 1531 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/18-arathi-highlands-30-34",
+  "step": 13,
+  "fix": "only",
+  "lines": [
+   "turnin 1531 only Shaman"
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 78,
+  "fix": "far objective",
+  "goal": "collect 1688.1 Surena's Choker (map 1429)",
+  "line": "collect 6810 quest 1688.1 only Warlock",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+   "step": 79
+  },
+  "now": "moved into maxi-classic/alliance/01-dun-morogh-1-15 step 79 \"Leave the building\" (0 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 98,
+  "fix": "far objective",
+  "goal": "collect 416.1 Tunnel Rat Ear (map 1432)",
+  "line": "collect 3110 x12 quest 416.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+   "step": 103
+  },
+  "now": "moved into maxi-classic/alliance/01-dun-morogh-1-15 step 103 \"{npc:1343}\" (28 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 98,
+  "fix": "far objective",
+  "goal": "collect 416.1 Tunnel Rat Ear (map 1432)",
+  "line": "collect 3110 x12 quest 416.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+   "step": 101
+  },
+  "now": "moved into maxi-classic/alliance/02-elwynn-forest-1-15 step 101 \"{npc:1343}\" (28 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 84,
+  "fix": "far objective",
+  "goal": "kill 6001.1 Lunaclaw Spirit (map 1457)",
+  "line": "kill 12144 quest 6001.1 only Druid",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+   "step": 86
+  },
+  "now": "moved into maxi-classic/alliance/03-teldrassil-1-17 step 86 \"{npc:4217}\" (0 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/06-loch-modan-17-18",
+  "step": 32,
+  "fix": "far objective",
+  "goal": "use Half Pendant of Aquatic Agility (map 1450)",
+  "line": "use 15883 optional",
+  "action": "optional",
+  "now": "optional in place: no quest to follow it to"
+ },
+ {
+  "guide": "maxi-classic/alliance/11-ashenvale-21-27",
+  "step": 15,
+  "fix": "far objective",
+  "goal": "collect 1134.1 Pridewing Venom Sac (map 1442)",
+  "line": "collect 5808 x12 quest 1134.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/12-stonetalon-mountains-22-23",
+   "step": 8
+  },
+  "now": "moved into maxi-classic/alliance/12-stonetalon-mountains-22-23 step 8 \"{npc:3994}\" (20 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 46,
+  "fix": "far objective",
+  "goal": "collect 1073.1 Minor Mana Potion (map 1421)",
+  "line": "collect 2455 x4 quest 1073.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 51,
+  "fix": "far objective",
+  "goal": "collect 335.1 Tear of Tilloa (map 1431)",
+  "line": "collect 2779 quest 335.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/17-duskwood-27-35",
+   "step": 1
+  },
+  "now": "moved into maxi-classic/alliance/17-duskwood-27-35 step 1 \"{npc:267}\" (58 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/20-wetlands-31-31",
+  "step": 9,
+  "fix": "far objective",
+  "goal": "interact 633.1 Cache of Explosives (map 1417)",
+  "line": "interact 2704 quest 633.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/20-wetlands-31-31",
+   "step": 10
+  },
+  "now": "moved into maxi-classic/alliance/20-wetlands-31-31 step 10 \"{quest:633}\" (25 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/23-stranglethorn-vale-33-40",
+  "step": 21,
+  "fix": "far objective",
+  "goal": "collect 627.1 Lesser Bloodstone Ore (map 1417)",
+  "line": "collect 4278 x4 quest 627.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/25-desolace-34-39",
+  "step": 34,
+  "fix": "far objective",
+  "goal": "collect 1373.1 Draenethyst Shard (map 1435)",
+  "line": "collect 6190 quest 1373.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/32-swamp-of-sorrows-41-45",
+   "step": 12
+  },
+  "now": "moved into maxi-classic/alliance/32-swamp-of-sorrows-41-45 step 12 \"{npc:5391}\" (38 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/28-dustwallow-marsh-38-40",
+  "step": 15,
+  "fix": "far objective",
+  "goal": "collect 1258.1 Pristine Crawler Leg (map 1435)",
+  "line": "collect 5938 x12 quest 1258.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/32-swamp-of-sorrows-41-45",
+   "step": 16
+  },
+  "now": "moved into maxi-classic/alliance/32-swamp-of-sorrows-41-45 step 16 \"{npc:5476}\" (26 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 11,
+  "fix": "far objective",
+  "goal": "collect 705.1 Blue Pearl (map 1434)",
+  "line": "collect 4611 x9 quest 705.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 18,
+  "fix": "far objective",
+  "goal": "collect 713.1 Frost Oil (map 1425)",
+  "line": "collect 3829 quest 713.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 19,
+  "fix": "far objective",
+  "goal": "collect 714.1 Gyrochronatom (map 1434)",
+  "line": "collect 4389 quest 714.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 21,
+  "fix": "far objective",
+  "goal": "collect 715.2 Lesser Invisibility Potion (map 1455)",
+  "line": "collect 3823 quest 715.2 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 27,
+  "fix": "far objective",
+  "goal": "collect 716.1 Patterned Bronze Bracers (map 1455)",
+  "line": "collect 2868 quest 716.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/34-stranglethorn-vale-42-50",
+  "step": 12,
+  "fix": "far objective",
+  "goal": "collect 580.1 Pupellyverbos Port (map 1425)",
+  "line": "collect 3900 quest 580.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+   "step": 14
+  },
+  "now": "moved into maxi-classic/alliance/38-the-hinterlands-46-52 step 14 \"\" (36 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/35-tanaris-43-47",
+  "step": 17,
+  "fix": "far objective",
+  "goal": "kill 3520.1 Screecher Spirit (map 1444)",
+  "line": "kill 8612 x3 quest 3520.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/36-feralas-44-48",
+   "step": 6
+  },
+  "now": "moved into maxi-classic/alliance/36-feralas-44-48 step 6 \"{npc:7900}\" (52 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 36,
+  "fix": "far objective",
+  "goal": "collect 3661.1 Wildkin Feather (map 1425)",
+  "line": "collect 10819 x15 quest 3661.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+   "step": 8
+  },
+  "now": "moved into maxi-classic/alliance/38-the-hinterlands-46-52 step 8 \"{npc:7884}\" (6 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+  "step": 10,
+  "fix": "far objective",
+  "goal": "collect 1452.1 Roc Gizzard (map 1446)",
+  "line": "collect 6257 x3 quest 1452.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/42-tanaris-49-54",
+   "step": 8
+  },
+  "now": "moved into maxi-classic/alliance/42-tanaris-49-54 step 8 \"{npc:7771}\" (31 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+  "step": 10,
+  "fix": "far objective",
+  "goal": "collect 1452.2 Ironfur Liver (map 1444)",
+  "line": "collect 6258 x3 quest 1452.2",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/41-feralas-48-55",
+   "step": 14
+  },
+  "now": "moved into maxi-classic/alliance/41-feralas-48-55 step 14 \"{npc:7774}\" (9 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+  "step": 10,
+  "fix": "far objective",
+  "goal": "collect 1452.3 Groddoc Liver (map 1444)",
+  "line": "collect 6259 x3 quest 1452.3",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/41-feralas-48-55",
+   "step": 14
+  },
+  "now": "moved into maxi-classic/alliance/41-feralas-48-55 step 14 \"{npc:7774}\" (12 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 6,
+  "fix": "far objective",
+  "goal": "collect 4450.4 Goodsteel's Balanced Flameberge (map 1435)",
+  "line": "collect 11723 quest 4450.4",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+   "step": 41
+  },
+  "now": "moved into maxi-classic/alliance/40-searing-gorge-47-55 step 41 \"Avoid {area:75}\" (17 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 42,
+  "fix": "far objective",
+  "goal": "collect 4512.1 Filled Cursed Ooze Jar (map 1439)",
+  "line": "collect 11947 x6 quest 4512.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 42,
+  "fix": "far objective",
+  "goal": "collect 4512.2 Filled Tainted Ooze Jar (map 1439)",
+  "line": "collect 11949 x6 quest 4512.2 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/42-tanaris-49-54",
+  "step": 3,
+  "fix": "far objective",
+  "goal": "collect 4504.1 Super Sticky Tar (map 1449)",
+  "line": "collect 11834 x12 quest 4504.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+   "step": 20
+  },
+  "now": "moved into maxi-classic/alliance/45-un-goro-crater-51-56 step 20 \"\" (19 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/42-tanaris-49-54",
+  "step": 8,
+  "fix": "far objective",
+  "goal": "collect 3444.1 Stone Circle (map 1413)",
+  "line": "collect 10556 quest 3444.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/44-the-hinterlands-50-57",
+   "step": 12
+  },
+  "now": "moved into maxi-classic/alliance/44-the-hinterlands-50-57 step 12 \"{npc:8496}\" (14 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/44-the-hinterlands-50-57",
+  "step": 12,
+  "fix": "far objective",
+  "goal": "collect 4502.1 Un'Goro Ash (map 1449)",
+  "line": "collect 11829 x9 quest 4502.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+   "step": 61
+  },
+  "now": "moved into maxi-classic/alliance/45-un-goro-crater-51-56 step 61 \"{npc:9999}\" (14 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+  "step": 25,
+  "fix": "far objective",
+  "goal": "collect 4244.1 Mithril Casing (map 1427)",
+  "line": "collect 10561 quest 4244.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+  "step": 73,
+  "fix": "far objective",
+  "goal": "collect 978.1 Moontouched Feather (map 1452)",
+  "line": "collect 12383 x10 quest 978.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/48-winterspring-54-59",
+   "step": 5
+  },
+  "now": "moved into maxi-classic/alliance/48-winterspring-54-59 step 5 \"{npc:10301}\" (28 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/51-western-plaguelands-55-55",
+  "step": 4,
+  "fix": "far objective",
+  "goal": "collect 4513.1 Filled Pure Sample Jar (map 1449)",
+  "line": "collect 11954 x10 quest 4513.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/alliance/55-western-plaguelands-58-58",
+   "step": 31
+  },
+  "now": "moved into maxi-classic/alliance/55-western-plaguelands-58-58 step 31 \"{item:11953}\" (37 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 96,
+  "fix": "far objective",
+  "goal": "collect 812.1 Venomtail Antidote (map 1454)",
+  "line": "collect 4904 quest 812.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/01-durotar-1-13",
+   "step": 99
+  },
+  "now": "moved into maxi-classic/horde/01-durotar-1-13 step 99 \"{npc:3189}\" (0 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 88,
+  "fix": "far objective",
+  "goal": "use Cenarion Lunardust (map 1456)",
+  "line": "use 15710 optional",
+  "action": "optional",
+  "now": "optional in place: no quest to follow it to"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 99,
+  "fix": "far objective",
+  "goal": "use Wildmane Cleansing Totem (map 1456)",
+  "line": "use 5416 optional",
+  "action": "optional",
+  "now": "optional in place: no quest to follow it to"
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 7,
+  "fix": "far objective",
+  "goal": "use Half Pendant of Aquatic Agility (map 1450)",
+  "line": "use 15883 optional",
+  "action": "optional",
+  "now": "optional in place: no quest to follow it to"
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 37,
+  "fix": "far objective",
+  "goal": "collect 1069.1 Deepmoss Egg (map 1442)",
+  "line": "collect 5570 x15 quest 1069.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/08-stonetalon-mountains-21-26",
+   "step": 4
+  },
+  "now": "moved into maxi-classic/horde/08-stonetalon-mountains-21-26 step 4 \"{quest:1483}\" (17 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/07-the-barrens-16-30",
+  "step": 60,
+  "fix": "far objective",
+  "goal": "use Dogran's Pendant (map 1454)",
+  "line": "use 6626 optional",
+  "action": "optional",
+  "now": "optional in place: no quest to follow it to"
+ },
+ {
+  "guide": "maxi-classic/horde/09-ashenvale-22-23",
+  "step": 5,
+  "fix": "far objective",
+  "goal": "collect 1536.1 Filled Red Waterskin (map 1416)",
+  "line": "collect 7771 quest 1536.1 only Shaman optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 4,
+  "fix": "far objective",
+  "goal": "collect 63.1 Corrupt Manifestation's Bracers (map 1421)",
+  "line": "collect 7812 quest 63.1 only Shaman",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/10-the-barrens-22-27",
+   "step": 6
+  },
+  "now": "moved into maxi-classic/horde/10-the-barrens-22-27 step 6 \"{npc:5901}\" (23 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/16-thousand-needles-28-37",
+  "step": 8,
+  "fix": "far objective",
+  "goal": "interact 5088.2 Sacred Fire of Life (map 1413)",
+  "line": "interact 175944 quest 5088.2 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/16-thousand-needles-28-37",
+  "step": 22,
+  "fix": "far objective",
+  "goal": "collect 1136.1 Frostmaw's Mane (map 1416)",
+  "line": "collect 5811 quest 1136.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/25-alterac-mountains-37-38",
+   "step": 3
+  },
+  "now": "moved into maxi-classic/horde/25-alterac-mountains-37-38 step 3 \"Uzzek\" (17 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/21-desolace-32-39",
+  "step": 48,
+  "fix": "far objective",
+  "goal": "collect 1373.1 Draenethyst Shard (map 1435)",
+  "line": "collect 6190 quest 1373.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/29-swamp-of-sorrows-39-45",
+   "step": 11
+  },
+  "now": "moved into maxi-classic/horde/29-swamp-of-sorrows-39-45 step 11 \"{npc:5391}\" (38 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/27-dustwallow-marsh-38-45",
+  "step": 8,
+  "fix": "far objective",
+  "goal": "collect 1218.1 Soothing Spices (map 1456)",
+  "line": "collect 3713 x3 quest 1218.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/31-badlands-40-45",
+  "step": 1,
+  "fix": "far objective",
+  "goal": "collect 705.1 Blue Pearl (map 1434)",
+  "line": "collect 4611 x9 quest 705.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/31-badlands-40-45",
+  "step": 7,
+  "fix": "far objective",
+  "goal": "collect 713.1 Frost Oil (map 1425)",
+  "line": "collect 3829 quest 713.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/31-badlands-40-45",
+  "step": 8,
+  "fix": "far objective",
+  "goal": "collect 714.1 Gyrochronatom (map 1434)",
+  "line": "collect 4389 quest 714.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/37-feralas-45-53",
+  "step": 35,
+  "fix": "far objective",
+  "goal": "collect 3123.1 Wildkin Muisek (map 1425)",
+  "line": "collect 9594 x10 quest 3123.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/39-the-hinterlands-46-48",
+   "step": 6
+  },
+  "now": "moved into maxi-classic/horde/39-the-hinterlands-46-48 step 6 \"{npc:14741}\" (8 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/38-azshara-46-52",
+  "step": 5,
+  "fix": "far objective",
+  "goal": "interact 2995.1 Highvale Records (map 1425)",
+  "line": "interact 144071 quest 2995.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/39-the-hinterlands-46-48",
+   "step": 5
+  },
+  "now": "moved into maxi-classic/horde/39-the-hinterlands-46-48 step 5 \"{npc:14738}\" (10 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/38-azshara-46-52",
+  "step": 5,
+  "fix": "far objective",
+  "goal": "interact 2995.3 Highvale Report (map 1425)",
+  "line": "interact 144073 quest 2995.3",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/39-the-hinterlands-46-48",
+   "step": 2
+  },
+  "now": "moved into maxi-classic/horde/39-the-hinterlands-46-48 step 2 \"Jump down here\" (54 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/41-searing-gorge-48-52",
+  "step": 2,
+  "fix": "far objective",
+  "goal": "collect 4450.4 Goodsteel's Balanced Flameberge (map 1435)",
+  "line": "collect 11723 quest 4450.4",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/43-swamp-of-sorrows-49-57",
+   "step": 11
+  },
+  "now": "moved into maxi-classic/horde/43-swamp-of-sorrows-49-57 step 11 \"{npc:7572}\" (17 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/42-feralas-49-55",
+  "step": 3,
+  "fix": "far objective",
+  "goal": "kill 4120.1 Angerclaw Grizzly (map 1448)",
+  "line": "kill 8957 x12 quest 4120.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/52-felwood-54-56",
+   "step": 10
+  },
+  "now": "moved into maxi-classic/horde/52-felwood-54-56 step 10 \"{quest:8461}\" (39 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/43-swamp-of-sorrows-49-57",
+  "step": 14,
+  "fix": "far objective",
+  "goal": "collect 580.1 Pupellyverbos Port (map 1425)",
+  "line": "collect 3900 quest 580.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/47-the-hinterlands-51-55",
+   "step": 1
+  },
+  "now": "moved into maxi-classic/horde/47-the-hinterlands-51-55 step 1 \"{npc:14740}\" (28 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/45-tanaris-50-54",
+  "step": 1,
+  "fix": "far objective",
+  "goal": "collect 4504.1 Super Sticky Tar (map 1449)",
+  "line": "collect 11834 x12 quest 4504.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+   "step": 19
+  },
+  "now": "moved into maxi-classic/horde/49-un-goro-crater-52-56 step 19 \"\" (19 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/45-tanaris-50-54",
+  "step": 8,
+  "fix": "far objective",
+  "goal": "collect 3444.1 Stone Circle (map 1413)",
+  "line": "collect 10556 quest 3444.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/47-the-hinterlands-51-55",
+   "step": 11
+  },
+  "now": "moved into maxi-classic/horde/47-the-hinterlands-51-55 step 11 \"{npc:8496}\" (14 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/46-azshara-51-56",
+  "step": 16,
+  "fix": "far objective",
+  "goal": "collect 4300.1 White Ravasaur Claw (map 1449)",
+  "line": "collect 11477 x8 quest 4300.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+   "step": 38
+  },
+  "now": "moved into maxi-classic/horde/49-un-goro-crater-52-56 step 38 \"{npc:9619}\" (2 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/47-the-hinterlands-51-55",
+  "step": 11,
+  "fix": "far objective",
+  "goal": "collect 4502.1 Un'Goro Ash (map 1449)",
+  "line": "collect 11829 x9 quest 4502.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+   "step": 65
+  },
+  "now": "moved into maxi-classic/horde/49-un-goro-crater-52-56 step 65 \"{npc:9999}\" (14 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+  "step": 25,
+  "fix": "far objective",
+  "goal": "collect 4244.1 Mithril Casing (map 1427)",
+  "line": "collect 10561 quest 4244.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/52-felwood-54-56",
+  "step": 6,
+  "fix": "far objective",
+  "goal": "kill 4521.1 Raging Owlbeast (map 1452)",
+  "line": "kill 7451 x15 quest 4521.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/53-winterspring-55-58",
+   "step": 6
+  },
+  "now": "moved into maxi-classic/horde/53-winterspring-55-58 step 6 \"{npc:10305}\" (37 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/56-winterspring-56-58",
+  "step": 2,
+  "fix": "far objective",
+  "goal": "kill 5163.2 Sprinkle (map 1446)",
+  "line": "kill 7583 quest 5163.2",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/58-western-plaguelands-58-60",
+   "step": 29
+  },
+  "now": "moved into maxi-classic/horde/58-western-plaguelands-58-60 step 29 \"{item:12928}\" (24 yd away)"
+ },
+ {
+  "guide": "maxi-classic/horde/58-western-plaguelands-58-60",
+  "step": 22,
+  "fix": "far objective",
+  "goal": "collect 964.1 Skeletal Fragments (map 1416)",
+  "line": "collect 14619 x15 quest 964.1 optional",
+  "action": "optional",
+  "now": "optional in place: no later step of the route is on that map before the turn-in"
+ },
+ {
+  "guide": "maxi-classic/horde/58-western-plaguelands-58-60",
+  "step": 27,
+  "fix": "far objective",
+  "goal": "collect 5527.1 Reliquary of Purity (map 1451)",
+  "line": "collect 22201 quest 5527.1",
+  "action": "moved",
+  "to": {
+   "guide": "maxi-classic/horde/59-silithus-58-59",
+   "step": 3
+  },
+  "now": "moved into maxi-classic/horde/59-silithus-58-59 step 3 \"{npc:13220}\" (32 yd away)"
+ },
+ {
+  "guide": "maxi-classic/alliance/21-hillsbrad-foothills-31-34",
+  "step": 15,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:4521}",
+  "where": "after",
+  "now": "new step \"{item:4521}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/15-wetlands-24-31",
+    "step": 49,
+    "line": "collect 4521 x5 quest 689.1",
+    "goal": "collect 689.1 Alterac Granite (map 1416)",
+    "yards": 114
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/32-swamp-of-sorrows-41-45",
+  "step": 7,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5803}",
+  "where": "after",
+  "now": "new step \"{item:5803}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/30-stranglethorn-vale-39-43",
+    "step": 4,
+    "line": "collect 5803 x10 quest 1116.1",
+    "goal": "collect 1116.1 Speck of Dream Dust (map 1435)",
+    "yards": 225
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/34-stranglethorn-vale-42-50",
+  "step": 23,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5862}",
+  "where": "after",
+  "now": "new step \"{item:5862}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/29-arathi-highlands-38-41",
+    "step": 31,
+    "line": "collect 5862 quest 1187.1",
+    "goal": "collect 1187.1 Seaforium Booster (map 1445)",
+    "yards": 751
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/42-tanaris-49-54",
+  "step": 2,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:11724}",
+  "where": "after",
+  "now": "new step \"{item:11724}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+    "step": 6,
+    "line": "collect 11724 quest 4450.3",
+    "goal": "collect 4450.3 Overdue Package (map 1445)",
+    "yards": 154
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/44-the-hinterlands-50-57",
+  "step": 7,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:8526}",
+  "where": "after",
+  "now": "new step \"{item:8526}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/42-tanaris-49-54",
+    "step": 14,
+    "line": "collect 8526 quest 2641.1",
+    "goal": "collect 2641.1 Violet Tragan (map 1425)",
+    "yards": 330
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/46-azshara-53-53",
+  "step": 2,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:10563}",
+  "where": "after",
+  "now": "new step \"{item:10563}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+    "step": 19,
+    "line": "collect 10563 quest 3449.1",
+    "goal": "collect 3449.1 Rubbing: Rune of Beth'Amara (map 1447)",
+    "yards": 164
+   },
+   {
+    "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+    "step": 19,
+    "line": "collect 10564 quest 3449.2",
+    "goal": "collect 3449.2 Rubbing: Rune of Jin'yael (map 1447)",
+    "yards": 326
+   },
+   {
+    "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+    "step": 19,
+    "line": "collect 10565 quest 3449.3",
+    "goal": "collect 3449.3 Rubbing: Rune of Markri (map 1447)",
+    "yards": 153
+   },
+   {
+    "guide": "maxi-classic/alliance/38-the-hinterlands-46-52",
+    "step": 19,
+    "line": "collect 10566 quest 3449.4",
+    "goal": "collect 3449.4 Rubbing: Rune of Sael'hai (map 1447)",
+    "yards": 218
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/54-eastern-plaguelands-57-60",
+  "step": 5,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:16003}",
+  "where": "after",
+  "now": "new step \"{item:16003}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/53-western-plaguelands-56-60",
+    "step": 15,
+    "line": "collect 16003 quest 6185.1",
+    "goal": "collect 6185.1 SI:7 Insignia (Rutger) (map 1423)",
+    "yards": 123
+   },
+   {
+    "guide": "maxi-classic/alliance/53-western-plaguelands-56-60",
+    "step": 15,
+    "line": "collect 16001 quest 6185.2",
+    "goal": "collect 6185.2 SI:7 Insignia (Fredo) (map 1423)",
+    "yards": 164
+   },
+   {
+    "guide": "maxi-classic/alliance/53-western-plaguelands-56-60",
+    "step": 15,
+    "line": "collect 16002 quest 6185.3",
+    "goal": "collect 6185.3 SI:7 Insignia (Turyen) (map 1423)",
+    "yards": 185
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/55-western-plaguelands-58-58",
+  "step": 31,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{npc:10977}",
+  "where": "after",
+  "now": "new step \"{npc:10977}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/50-winterspring-54-59",
+    "step": 20,
+    "line": "kill 10977 quest 5163.3",
+    "goal": "kill 5163.3 Quixxil (map 1449)",
+    "yards": 79
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/55-western-plaguelands-58-58",
+  "step": 29,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{npc:7583}",
+  "where": "after",
+  "now": "new step \"{npc:7583}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/50-winterspring-54-59",
+    "step": 20,
+    "line": "kill 7583 quest 5163.2",
+    "goal": "kill 5163.2 Sprinkle (map 1446)",
+    "yards": 80
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/alliance/55-western-plaguelands-58-58",
+  "step": 22,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5646}",
+  "where": "after",
+  "now": "new step \"{item:5646}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/alliance/49-felwood-54-55",
+    "step": 4,
+    "line": "collect 5646 quest 4441.1",
+    "goal": "collect 4441.1 Vial of Blessed Water (map 1438)",
+    "yards": 539
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 62,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:6486}",
+  "where": "before",
+  "now": "new step \"{item:6486}\" before this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/02-mulgore-1-14",
+    "step": 61,
+    "line": "collect 6486 x5 quest 1498.1 only Warrior",
+    "goal": "collect 1498.1 Singed Scale (map 1411)",
+    "yards": 74
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/13-ashenvale-25-27",
+  "step": 7,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5868}",
+  "where": "after",
+  "now": "new step \"{item:5868}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/07-the-barrens-16-30",
+    "step": 68,
+    "line": "collect 5868 quest 1195.1",
+    "goal": "collect 1195.1 Filled Etched Phial (map 1440)",
+    "yards": 82
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/28-stranglethorn-vale-39-44",
+  "step": 8,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5862}",
+  "where": "after",
+  "now": "new step \"{item:5862}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/26-thousand-needles-38-41",
+    "step": 7,
+    "line": "collect 5862 quest 1187.1",
+    "goal": "collect 1187.1 Seaforium Booster (map 1445)",
+    "yards": 223
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/29-swamp-of-sorrows-39-45",
+  "step": 7,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5803}",
+  "where": "after",
+  "now": "new step \"{item:5803}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/28-stranglethorn-vale-39-44",
+    "step": 4,
+    "line": "collect 5803 x10 quest 1116.1",
+    "goal": "collect 1116.1 Speck of Dream Dust (map 1435)",
+    "yards": 63
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/34-dustwallow-marsh-43-44",
+  "step": 3,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:5942}",
+  "where": "after",
+  "now": "new step \"{item:5942}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/28-stranglethorn-vale-39-44",
+    "step": 8,
+    "line": "collect 5942 quest 1261.1",
+    "goal": "collect 1261.1 Jeweled Pendant (map 1445)",
+    "yards": 423
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/37-feralas-45-53",
+  "step": 20,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{npc:8612}",
+  "where": "after",
+  "now": "new step \"{npc:8612}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/36-tanaris-44-46",
+    "step": 17,
+    "line": "kill 8612 x3 quest 3520.1",
+    "goal": "kill 3520.1 Screecher Spirit (map 1444)",
+    "yards": 70
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/39-the-hinterlands-46-48",
+  "step": 15,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{object:144072}",
+  "where": "after",
+  "now": "new step \"{object:144072}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/38-azshara-46-52",
+    "step": 5,
+    "line": "interact 144072 quest 2995.2",
+    "goal": "interact 2995.2 Highvale Notes (map 1425)",
+    "yards": 62
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/44-dustwallow-marsh-49-51",
+  "step": 2,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:11724}",
+  "where": "after",
+  "now": "new step \"{item:11724}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/41-searing-gorge-48-52",
+    "step": 2,
+    "line": "collect 11724 quest 4450.3",
+    "goal": "collect 4450.3 Overdue Package (map 1445)",
+    "yards": 320
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/47-the-hinterlands-51-55",
+  "step": 5,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:8526}",
+  "where": "after",
+  "now": "new step \"{item:8526}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/45-tanaris-50-54",
+    "step": 15,
+    "line": "collect 8526 quest 2641.1",
+    "goal": "collect 2641.1 Violet Tragan (map 1425)",
+    "yards": 415
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/52-felwood-54-56",
+  "step": 9,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{npc:8961}",
+  "where": "after",
+  "now": "new step \"{npc:8961}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/42-feralas-49-55",
+    "step": 3,
+    "line": "kill 8961 x12 quest 4120.2",
+    "goal": "kill 4120.2 Felpaw Ravager (map 1448)",
+    "yards": 107
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/57-eastern-plaguelands-57-60",
+  "step": 18,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:15043}",
+  "where": "after",
+  "now": "new step \"{item:15043}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/55-western-plaguelands-56-58",
+    "step": 7,
+    "line": "collect 15043 x100 quest 5901.1",
+    "goal": "collect 5901.1 Plagueland Termites (map 1423)",
+    "yards": 67
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/58-western-plaguelands-58-60",
+  "step": 31,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{item:12291}",
+  "where": "after",
+  "now": "new step \"{item:12291}\" after this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/55-western-plaguelands-56-58",
+    "step": 5,
+    "line": "collect 12291 quest 4642.1",
+    "goal": "collect 4642.1 Merged Ooze Sample (map 1449)",
+    "yards": 294
+   },
+   {
+    "guide": "maxi-classic/horde/56-winterspring-56-58",
+    "step": 2,
+    "line": "kill 10977 quest 5163.3",
+    "goal": "kill 5163.3 Quixxil (map 1449)",
+    "yards": 79
+   }
+  ]
+ },
+ {
+  "guide": "maxi-classic/horde/60-winterspring-59-60",
+  "step": 6,
+  "fix": "far objective",
+  "action": "new step",
+  "title": "{npc:7453}",
+  "where": "before",
+  "now": "new step \"{npc:7453}\" before this step",
+  "goals": [
+   {
+    "guide": "maxi-classic/horde/59-silithus-58-59",
+    "step": 8,
+    "line": "kill 7453 x13 quest 4741.1",
+    "goal": "kill 4741.1 Moontouched Owlbeast (map 1452)",
+    "yards": 100
+   }
+  ]
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 305,
+  "change": "In Search of The Excavation Team -> In Search of the Excavation Team"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 306,
+  "change": "In Search of The Excavation Team -> In Search of the Excavation Team"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 275,
+  "change": "Blisters on The Land -> Blisters on the Land"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 180,
+  "change": "Wanted: Lieutenant Fangore -> WANTED: Lieutenant Fangore"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 174,
+  "change": "Look To The Stars -> Look to the Stars"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 175,
+  "change": "Look To The Stars -> Look to the Stars"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 177,
+  "change": "Look To The Stars -> Look to the Stars"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 4641,
+  "change": "Your Place In The World -> Your Place in the World"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 398,
+  "change": "Wanted: Maggot Eye -> WANTED: Maggot Eye"
+ },
+ {
+  "guide": null,
+  "step": null,
+  "fix": "title",
+  "quest": 5147,
+  "change": "Wanted - Arnak Grimtotem -> WANTED: Arnak Grimtotem"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "titles": [
+   "{npc:912}",
+   "{npc:916}",
+   "{npc:837}",
+   "{npc:926}",
+   "{npc:895}",
+   "{npc:912}",
+   "{npc:916}",
+   "{npc:944}"
+  ],
+  "title": "{area:77}"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 35,
+  "fix": "grouped",
+  "steps": [
+   35,
+   36
+  ],
+  "titles": [
+   "{npc:6806}",
+   "{npc:1247}"
+  ],
+  "title": "{npc:6806}"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 47,
+  "fix": "grouped",
+  "steps": [
+   47,
+   48
+  ],
+  "titles": [
+   "{npc:1378}",
+   "{npc:1377}"
+  ],
+  "title": "{area:189}"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 86,
+  "fix": "grouped",
+  "steps": [
+   86,
+   87
+  ],
+  "titles": [
+   "{npc:1977}",
+   "{npc:1254}"
+  ],
+  "title": "{area:134}"
+ },
+ {
+  "guide": "maxi-classic/alliance/01-dun-morogh-1-15",
+  "step": 128,
+  "fix": "grouped",
+  "steps": [
+   128,
+   129
+  ],
+  "titles": [
+   "{npc:12997}",
+   "{npc:13018}"
+  ],
+  "title": "{npc:12997}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 10,
+  "fix": "grouped",
+  "steps": [
+   10,
+   11
+  ],
+  "titles": [
+   "{npc:911}",
+   "{npc:925}"
+  ],
+  "title": "{area:24}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 29,
+  "fix": "grouped",
+  "steps": [
+   29,
+   30
+  ],
+  "titles": [
+   "{npc:295}",
+   null
+  ],
+  "title": "{npc:295}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 34,
+  "fix": "grouped",
+  "steps": [
+   34,
+   35
+  ],
+  "titles": [
+   "{npc:247}",
+   "{npc:248}"
+  ],
+  "title": "{area:63}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 42,
+  "fix": "grouped",
+  "steps": [
+   42,
+   43
+  ],
+  "titles": [
+   "Remy Two Times",
+   "{npc:240}"
+  ],
+  "title": "{area:87}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 53,
+  "fix": "grouped",
+  "steps": [
+   53,
+   54,
+   55
+  ],
+  "titles": [
+   "{npc:253}",
+   "{npc:251}",
+   "{npc:240}"
+  ],
+  "title": "{area:87}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 71,
+  "fix": "grouped",
+  "steps": [
+   71,
+   72
+  ],
+  "titles": [
+   "{quest:1640}",
+   "{npc:6089}"
+  ],
+  "title": "{npc:6090} and {npc:6089}"
+ },
+ {
+  "guide": "maxi-classic/alliance/02-elwynn-forest-1-15",
+  "step": 87,
+  "fix": "grouped",
+  "steps": [
+   87,
+   88
+  ],
+  "titles": [
+   "{npc:1977}",
+   "{npc:1254}"
+  ],
+  "title": "{area:134}"
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 3,
+  "fix": "grouped",
+  "steps": [
+   3,
+   4
+  ],
+  "titles": [
+   "{npc:8584}",
+   "{npc:1992}"
+  ],
+  "title": "{area:256}"
+ },
+ {
+  "guide": "maxi-classic/alliance/03-teldrassil-1-17",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:3596}",
+   "{npc:3597}"
+  ],
+  "title": "{area:256}"
+ },
+ {
+  "guide": "maxi-classic/alliance/06-loch-modan-17-18",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:6734}",
+   "{npc:1345}"
+  ],
+  "title": "{npc:1105}"
+ },
+ {
+  "guide": "maxi-classic/alliance/06-loch-modan-17-18",
+  "step": 29,
+  "fix": "grouped",
+  "steps": [
+   29,
+   30
+  ],
+  "titles": [
+   "{npc:6579}",
+   "{npc:5413}"
+  ],
+  "title": "{npc:6579} and {npc:5413}"
+ },
+ {
+  "guide": "maxi-classic/alliance/07-redridge-mountains-18-24",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12
+  ],
+  "titles": [
+   "{npc:6727}",
+   "{npc:464}"
+  ],
+  "title": "{npc:379}"
+ },
+ {
+  "guide": "maxi-classic/alliance/08-darkshore-20-21",
+  "step": 6,
+  "fix": "grouped",
+  "steps": [
+   6,
+   7
+  ],
+  "titles": [
+   "{quest:948}",
+   "{npc:3584}"
+  ],
+  "title": "{quest:948}"
+ },
+ {
+  "guide": "maxi-classic/alliance/11-ashenvale-21-27",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3
+  ],
+  "titles": [
+   "{npc:4080}",
+   "{npc:3994}"
+  ],
+  "title": "{area:415}"
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 29,
+  "fix": "grouped",
+  "steps": [
+   29,
+   30
+  ],
+  "titles": [
+   "{npc:2104}",
+   "{quest:464}"
+  ],
+  "title": "{npc:2104}"
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 44,
+  "fix": "grouped",
+  "steps": [
+   44,
+   45
+  ],
+  "titles": [
+   "{npc:2695}",
+   "{npc:2784}"
+  ],
+  "title": "{npc:2695}"
+ },
+ {
+  "guide": "maxi-classic/alliance/15-wetlands-24-31",
+  "step": 56,
+  "fix": "grouped",
+  "steps": [
+   56,
+   57
+  ],
+  "titles": [
+   "{npc:7207}",
+   "{quest:2608}"
+  ],
+  "title": "{npc:7207}"
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 27,
+  "fix": "grouped",
+  "steps": [
+   27,
+   28,
+   29
+  ],
+  "titles": [
+   "{npc:267}",
+   "{npc:268}",
+   "{npc:264}"
+  ],
+  "title": "{area:42}"
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 30,
+  "fix": "grouped",
+  "steps": [
+   30,
+   31
+  ],
+  "titles": [
+   "{npc:663}",
+   "{npc:661}"
+  ],
+  "title": "{area:42}"
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 55,
+  "fix": "grouped",
+  "steps": [
+   55,
+   56,
+   57
+  ],
+  "titles": [
+   "{npc:268}",
+   "{quest:401}",
+   "{npc:263}"
+  ],
+  "title": "{area:42}"
+ },
+ {
+  "guide": "maxi-classic/alliance/17-duskwood-27-35",
+  "step": 60,
+  "fix": "grouped",
+  "steps": [
+   60,
+   61
+  ],
+  "titles": [
+   "{npc:1212}",
+   "{npc:4960}"
+  ],
+  "title": "{npc:1212} and {npc:4982}"
+ },
+ {
+  "guide": "maxi-classic/alliance/22-duskwood-33-35",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5,
+   6
+  ],
+  "titles": [
+   "{npc:273}",
+   "{npc:264}",
+   "{npc:267}"
+  ],
+  "title": "{area:42}"
+ },
+ {
+  "guide": "maxi-classic/alliance/23-stranglethorn-vale-33-40",
+  "step": 19,
+  "fix": "grouped",
+  "steps": [
+   19,
+   20
+  ],
+  "titles": [
+   "{quest:342}",
+   "{npc:716}"
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/alliance/23-stranglethorn-vale-33-40",
+  "step": 22,
+  "fix": "grouped",
+  "steps": [
+   22,
+   23
+  ],
+  "titles": [
+   "{quest:627}",
+   "{npc:2496}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/24-thousand-needles-34-39",
+  "step": 10,
+  "fix": "grouped",
+  "steps": [
+   10,
+   11
+  ],
+  "titles": [
+   "{npc:4454}",
+   "{npc:4453}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/alliance/25-desolace-34-39",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18
+  ],
+  "titles": [
+   "{npc:5638}",
+   "{npc:5752}"
+  ],
+  "title": "{area:608}"
+ },
+ {
+  "guide": "maxi-classic/alliance/26-stranglethorn-vale-36-41",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "titles": [
+   "{npc:717}",
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null,
+   "{npc:2483}"
+  ],
+  "title": "{npc:717}"
+ },
+ {
+  "guide": "maxi-classic/alliance/26-stranglethorn-vale-36-41",
+  "step": 36,
+  "fix": "grouped",
+  "steps": [
+   36,
+   37
+  ],
+  "titles": [
+   "{npc:1422}",
+   "{npc:469}"
+  ],
+  "title": "{area:99}"
+ },
+ {
+  "guide": "maxi-classic/alliance/26-stranglethorn-vale-36-41",
+  "step": 38,
+  "fix": "grouped",
+  "steps": [
+   38,
+   39,
+   40,
+   41
+  ],
+  "titles": [
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/alliance/26-stranglethorn-vale-36-41",
+  "step": 43,
+  "fix": "grouped",
+  "steps": [
+   43,
+   44,
+   45
+  ],
+  "titles": [
+   "{npc:773}",
+   "{npc:737}",
+   "{npc:2496}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/27-hillsbrad-foothills-37-38",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12,
+   13
+  ],
+  "titles": [
+   "Quae",
+   "{npc:2263}",
+   "{npc:2276}"
+  ],
+  "title": "{area:271}"
+ },
+ {
+  "guide": "maxi-classic/alliance/28-dustwallow-marsh-38-40",
+  "step": 12,
+  "fix": "grouped",
+  "steps": [
+   12,
+   13,
+   14
+  ],
+  "titles": [
+   "{npc:4944}",
+   "{quest:1252}",
+   "{npc:4944}"
+  ],
+  "title": "{npc:4944}"
+ },
+ {
+  "guide": "maxi-classic/alliance/28-dustwallow-marsh-38-40",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18,
+   19
+  ],
+  "titles": [
+   "{npc:4944}",
+   "{npc:4948}",
+   "{npc:4944}"
+  ],
+  "title": "{npc:4944} and {npc:4948}"
+ },
+ {
+  "guide": "maxi-classic/alliance/29-arathi-highlands-38-41",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22
+  ],
+  "titles": [
+   "{npc:2769}",
+   "{npc:2774}"
+  ],
+  "title": "{area:327}"
+ },
+ {
+  "guide": "maxi-classic/alliance/29-arathi-highlands-38-41",
+  "step": 27,
+  "fix": "grouped",
+  "steps": [
+   27,
+   28,
+   29
+  ],
+  "titles": [
+   "{npc:4454}",
+   "{quest:1114}",
+   "Krazek"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/alliance/30-stranglethorn-vale-39-43",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:773}",
+   "{npc:2487}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/31-badlands-40-45",
+  "step": 28,
+  "fix": "grouped",
+  "steps": [
+   28,
+   29
+  ],
+  "titles": [
+   "{quest:716}",
+   "{npc:2921}"
+  ],
+  "title": "{area:1878}"
+ },
+ {
+  "guide": "maxi-classic/alliance/32-swamp-of-sorrows-41-45",
+  "step": 14,
+  "fix": "grouped",
+  "steps": [
+   14,
+   15
+  ],
+  "titles": [
+   "{npc:1776}",
+   "{npc:11874}"
+  ],
+  "title": "{npc:1776}"
+ },
+ {
+  "guide": "maxi-classic/alliance/34-stranglethorn-vale-42-50",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3
+  ],
+  "titles": [
+   "{npc:773}",
+   "{npc:4452}"
+  ],
+  "title": "{npc:773}"
+ },
+ {
+  "guide": "maxi-classic/alliance/34-stranglethorn-vale-42-50",
+  "step": 13,
+  "fix": "grouped",
+  "steps": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "titles": [
+   "{npc:737}",
+   "{npc:2488}",
+   "{npc:2487}",
+   "{npc:2543}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/34-stranglethorn-vale-42-50",
+  "step": 18,
+  "fix": "grouped",
+  "steps": [
+   18,
+   19,
+   20
+  ],
+  "titles": [
+   "Sea Wolf MacKinley",
+   "Stoley",
+   "{npc:2495}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/35-tanaris-43-47",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:7916}",
+   "{npc:7733}"
+  ],
+  "title": "{npc:7763}"
+ },
+ {
+  "guide": "maxi-classic/alliance/35-tanaris-43-47",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:2498}",
+   "{npc:4454}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/alliance/35-tanaris-43-47",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12
+  ],
+  "titles": [
+   "{npc:4706}",
+   "{npc:4630}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/alliance/35-tanaris-43-47",
+  "step": 35,
+  "fix": "grouped",
+  "steps": [
+   35,
+   36
+  ],
+  "titles": [
+   "{npc:7882}",
+   "{npc:7881}"
+  ],
+  "title": "{area:977}"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 3,
+  "fix": "grouped",
+  "steps": [
+   3,
+   4
+  ],
+  "titles": [
+   "{npc:7880}",
+   "{npc:3936}"
+  ],
+  "title": "{area:1116}"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 15,
+  "fix": "grouped",
+  "steps": [
+   15,
+   16
+  ],
+  "titles": [
+   "{npc:7877}",
+   "{npc:7878}"
+  ],
+  "title": "{area:1116}"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18
+  ],
+  "titles": [
+   "{npc:7879}",
+   "{npc:7880}"
+  ],
+  "title": "{npc:7879}"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 31,
+  "fix": "grouped",
+  "steps": [
+   31,
+   32
+  ],
+  "titles": [
+   "{npc:7900}",
+   "{npc:7880}"
+  ],
+  "title": "{area:1116}"
+ },
+ {
+  "guide": "maxi-classic/alliance/36-feralas-44-48",
+  "step": 36,
+  "fix": "grouped",
+  "steps": [
+   36,
+   37,
+   38,
+   39
+  ],
+  "titles": [
+   "{npc:7916}",
+   "{npc:7907}",
+   "{quest:2940}",
+   "{npc:7907}"
+  ],
+  "title": "{area:702}"
+ },
+ {
+  "guide": "maxi-classic/alliance/39-stranglethorn-vale-46-47",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "titles": [
+   "Sea Wolf MacKinley",
+   "{npc:2491}",
+   "{npc:2498}",
+   "{npc:6807}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22,
+   23
+  ],
+  "titles": [
+   "{npc:14627}",
+   "{npc:14626}",
+   "{npc:14624}"
+  ],
+  "title": "{area:1446}"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 25,
+  "fix": "grouped",
+  "steps": [
+   25,
+   26,
+   27
+  ],
+  "titles": [
+   "{quest:3453}",
+   "{npc:8479}",
+   "{quest:3462}"
+  ],
+  "title": "{npc:8479}"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 32,
+  "fix": "grouped",
+  "steps": [
+   32,
+   33
+  ],
+  "titles": [
+   "{quest:3481}",
+   null
+  ],
+  "title": "{quest:3481}"
+ },
+ {
+  "guide": "maxi-classic/alliance/40-searing-gorge-47-55",
+  "step": 43,
+  "fix": "grouped",
+  "steps": [
+   43,
+   44
+  ],
+  "titles": [
+   "{npc:7916}",
+   "{npc:7907}"
+  ],
+  "title": "{area:702}"
+ },
+ {
+  "guide": "maxi-classic/alliance/41-feralas-48-55",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:14637}",
+   null
+  ],
+  "title": "{npc:14637}"
+ },
+ {
+  "guide": "maxi-classic/alliance/42-tanaris-49-54",
+  "step": 14,
+  "fix": "grouped",
+  "steps": [
+   14,
+   15
+  ],
+  "titles": [
+   "{npc:7583}",
+   "{npc:5594}"
+  ],
+  "title": "{area:976}"
+ },
+ {
+  "guide": "maxi-classic/alliance/44-the-hinterlands-50-57",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9
+  ],
+  "titles": [
+   "{npc:9660}",
+   "{quest:4298}"
+  ],
+  "title": "{npc:9660}"
+ },
+ {
+  "guide": "maxi-classic/alliance/44-the-hinterlands-50-57",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18
+  ],
+  "titles": [
+   null,
+   "{npc:7572}"
+  ],
+  "title": "{npc:7572}"
+ },
+ {
+  "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+  "step": 6,
+  "fix": "grouped",
+  "steps": [
+   6,
+   7
+  ],
+  "titles": [
+   "{npc:7564}",
+   "{quest:2662}"
+  ],
+  "title": "{npc:7564}"
+ },
+ {
+  "guide": "maxi-classic/alliance/45-un-goro-crater-51-56",
+  "step": 51,
+  "fix": "grouped",
+  "steps": [
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "titles": [
+   "{npc:9119}",
+   "{npc:9997}",
+   "{npc:9272}",
+   "{npc:9271}",
+   "{npc:9270}"
+  ],
+  "title": "{area:541}"
+ },
+ {
+  "guide": "maxi-classic/alliance/49-felwood-54-55",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:9116}",
+   "{npc:10921}"
+  ],
+  "title": "{area:2479}"
+ },
+ {
+  "guide": "maxi-classic/alliance/50-winterspring-54-59",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5,
+   6
+  ],
+  "titles": [
+   "{npc:11118}",
+   "{npc:10840}",
+   "{npc:10926}"
+  ],
+  "title": "{area:2255}"
+ },
+ {
+  "guide": "maxi-classic/alliance/52-burning-steppes-55-56",
+  "step": 22,
+  "fix": "grouped",
+  "steps": [
+   22,
+   23
+  ],
+  "titles": [
+   "{npc:1749}",
+   "{npc:1748}"
+  ],
+  "title": "{npc:1748}"
+ },
+ {
+  "guide": "maxi-classic/alliance/54-eastern-plaguelands-57-60",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12
+  ],
+  "titles": [
+   "{npc:11053}",
+   "{npc:12425}"
+  ],
+  "title": "{area:3197}"
+ },
+ {
+  "guide": "maxi-classic/alliance/54-eastern-plaguelands-57-60",
+  "step": 28,
+  "fix": "grouped",
+  "steps": [
+   28,
+   29
+  ],
+  "titles": [
+   "{npc:1748}",
+   "{npc:11616}"
+  ],
+  "title": "{area:3197}"
+ },
+ {
+  "guide": "maxi-classic/alliance/55-western-plaguelands-58-58",
+  "step": 26,
+  "fix": "grouped",
+  "steps": [
+   26,
+   27
+  ],
+  "titles": [
+   "{quest:4442}",
+   "{npc:9116}"
+  ],
+  "title": "{npc:9116}"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 7,
+  "fix": "grouped",
+  "steps": [
+   7,
+   8,
+   9
+  ],
+  "titles": [
+   "{npc:3155}",
+   "{quest:3083}",
+   "{npc:3156}"
+  ],
+  "title": "{area:364}"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "titles": [
+   "{npc:3707}",
+   "{npc:3153}",
+   "{quest:3065}",
+   "{npc:3157}",
+   "{quest:3084}",
+   "{npc:3154}",
+   "{quest:3082}",
+   "{npc:5884}"
+  ],
+  "title": "{area:364}"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 22,
+  "fix": "grouped",
+  "steps": [
+   22,
+   23
+  ],
+  "titles": [
+   "{npc:5765}",
+   "{npc:3145}"
+  ],
+  "title": "{area:364}"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 35,
+  "fix": "grouped",
+  "steps": [
+   35,
+   36
+  ],
+  "titles": [
+   "{npc:3145}",
+   "{npc:5887}"
+  ],
+  "title": "{area:364}"
+ },
+ {
+  "guide": "maxi-classic/horde/01-durotar-1-13",
+  "step": 46,
+  "fix": "grouped",
+  "steps": [
+   46,
+   47
+  ],
+  "titles": [
+   "{npc:6928}",
+   null
+  ],
+  "title": "{npc:6928}"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 6,
+  "fix": "grouped",
+  "steps": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:3062}",
+   "{npc:3060}",
+   "{npc:2981}",
+   "{npc:3059}",
+   "{npc:3061}"
+  ],
+  "title": "{area:221}"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 19,
+  "fix": "grouped",
+  "steps": [
+   19,
+   20,
+   21
+  ],
+  "titles": [
+   "{npc:3209}",
+   "{npc:5888}",
+   "{npc:2981}"
+  ],
+  "title": "{area:221}"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 35,
+  "fix": "grouped",
+  "steps": [
+   35,
+   36
+  ],
+  "titles": [
+   "{npc:2948}",
+   "{quest:754}"
+  ],
+  "title": "{npc:2948}"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 55,
+  "fix": "grouped",
+  "steps": [
+   55,
+   56
+  ],
+  "titles": [
+   "{npc:2948}",
+   "{quest:760}"
+  ],
+  "title": "{npc:2948}"
+ },
+ {
+  "guide": "maxi-classic/horde/02-mulgore-1-14",
+  "step": 110,
+  "fix": "grouped",
+  "steps": [
+   110,
+   111
+  ],
+  "titles": [
+   "{npc:3429}",
+   "{npc:3615}"
+  ],
+  "title": "{npc:3429}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9
+  ],
+  "titles": [
+   "{npc:2126}",
+   "{npc:5667}"
+  ],
+  "title": "{npc:2126} and {npc:5667}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 11,
+  "fix": "grouped",
+  "steps": [
+   11,
+   12
+  ],
+  "titles": [
+   "{npc:2123}",
+   "{npc:2124}"
+  ],
+  "title": "{npc:2123} and {npc:2124}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 35,
+  "fix": "grouped",
+  "steps": [
+   35,
+   36
+  ],
+  "titles": [
+   "{npc:5688}",
+   null
+  ],
+  "title": "{npc:5688}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 43,
+  "fix": "grouped",
+  "steps": [
+   43,
+   44
+  ],
+  "titles": [
+   "{npc:6784}",
+   "{quest:590}"
+  ],
+  "title": "{npc:6784}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 47,
+  "fix": "grouped",
+  "steps": [
+   47,
+   48
+  ],
+  "titles": [
+   "{npc:1500}",
+   "{npc:1560}"
+  ],
+  "title": "{area:159}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 57,
+  "fix": "grouped",
+  "steps": [
+   57,
+   58
+  ],
+  "titles": [
+   "{npc:4606}",
+   "{quest:5658}"
+  ],
+  "title": "{npc:4606}"
+ },
+ {
+  "guide": "maxi-classic/horde/03-tirisfal-glades-1-12",
+  "step": 67,
+  "fix": "grouped",
+  "steps": [
+   67,
+   68
+  ],
+  "titles": [
+   "{npc:1500}",
+   "{npc:1931}"
+  ],
+  "title": "{area:159}"
+ },
+ {
+  "guide": "maxi-classic/horde/04-silverpine-forest-1-21",
+  "step": 5,
+  "fix": "grouped",
+  "steps": [
+   5,
+   6,
+   7
+  ],
+  "titles": [
+   "{npc:2121}",
+   "{npc:6739}",
+   "{npc:2226}"
+  ],
+  "title": "{area:228}"
+ },
+ {
+  "guide": "maxi-classic/horde/04-silverpine-forest-1-21",
+  "step": 12,
+  "fix": "grouped",
+  "steps": [
+   12,
+   13
+  ],
+  "titles": [
+   "{npc:4556}",
+   "{npc:4551}"
+  ],
+  "title": "{npc:4556} and {npc:4551}"
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 1,
+  "fix": "grouped",
+  "steps": [
+   1,
+   2
+  ],
+  "titles": [
+   "{npc:3337}",
+   "{quest:809}"
+  ],
+  "title": "{area:379}"
+ },
+ {
+  "guide": "maxi-classic/horde/05-the-barrens-12-20",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:3615}",
+   "{quest:6365}"
+  ],
+  "title": "{npc:3615}"
+ },
+ {
+  "guide": "maxi-classic/horde/10-the-barrens-22-27",
+  "step": 18,
+  "fix": "grouped",
+  "steps": [
+   18,
+   19
+  ],
+  "titles": [
+   "{npc:3387}",
+   "{npc:3430}"
+  ],
+  "title": "{area:378}"
+ },
+ {
+  "guide": "maxi-classic/horde/16-thousand-needles-28-37",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:10537}",
+   "{npc:11116}"
+  ],
+  "title": "{npc:10537}"
+ },
+ {
+  "guide": "maxi-classic/horde/19-thousand-needles-31-37",
+  "step": 9,
+  "fix": "grouped",
+  "steps": [
+   9,
+   10,
+   11
+  ],
+  "titles": [
+   "{npc:4452}",
+   "{npc:4454}",
+   "{npc:4453}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/horde/20-stranglethorn-vale-31-40",
+  "step": 18,
+  "fix": "grouped",
+  "steps": [
+   18,
+   19
+  ],
+  "titles": [
+   "{quest:342}",
+   "{npc:716}"
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/horde/21-desolace-32-39",
+  "step": 43,
+  "fix": "grouped",
+  "steps": [
+   43,
+   44
+  ],
+  "titles": [
+   "{npc:5641}",
+   "{quest:1484}"
+  ],
+  "title": "{area:597}"
+ },
+ {
+  "guide": "maxi-classic/horde/22-dustwallow-marsh-34-37",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3
+  ],
+  "titles": [
+   "{quest:1269}",
+   "{npc:4926}"
+  ],
+  "title": "{quest:1269}"
+ },
+ {
+  "guide": "maxi-classic/horde/22-dustwallow-marsh-34-37",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{quest:1268}",
+   "{npc:5087}"
+  ],
+  "title": "{area:496}"
+ },
+ {
+  "guide": "maxi-classic/horde/23-stranglethorn-vale-34-41",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22,
+   23,
+   24
+  ],
+  "titles": [
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/horde/23-stranglethorn-vale-34-41",
+  "step": 27,
+  "fix": "grouped",
+  "steps": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "titles": [
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/horde/23-stranglethorn-vale-34-41",
+  "step": 32,
+  "fix": "grouped",
+  "steps": [
+   32,
+   33,
+   34
+  ],
+  "titles": [
+   "{npc:737}",
+   "{npc:773}",
+   "{npc:2496}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/horde/23-stranglethorn-vale-34-41",
+  "step": 36,
+  "fix": "grouped",
+  "steps": [
+   36,
+   37,
+   38,
+   39
+  ],
+  "titles": [
+   "{npc:2464}",
+   "{npc:2465}",
+   "{npc:2497}",
+   "Zengu"
+  ],
+  "title": "{area:117}"
+ },
+ {
+  "guide": "maxi-classic/horde/24-arathi-highlands-36-38",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:9501}",
+   "{npc:2703}"
+  ],
+  "title": "{npc:2703}"
+ },
+ {
+  "guide": "maxi-classic/horde/24-arathi-highlands-36-38",
+  "step": 13,
+  "fix": "grouped",
+  "steps": [
+   13,
+   14
+  ],
+  "titles": [
+   "{npc:2792}",
+   "{npc:2706}"
+  ],
+  "title": "{npc:2792}"
+ },
+ {
+  "guide": "maxi-classic/horde/26-thousand-needles-38-41",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "titles": [
+   "{npc:4452}",
+   "{npc:4454}",
+   "{quest:1114}",
+   "Krazek"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/horde/26-thousand-needles-38-41",
+  "step": 6,
+  "fix": "grouped",
+  "steps": [
+   6,
+   7
+  ],
+  "titles": [
+   "{npc:4630}",
+   "{npc:4706}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/horde/27-dustwallow-marsh-38-45",
+  "step": 12,
+  "fix": "grouped",
+  "steps": [
+   12,
+   13
+  ],
+  "titles": [
+   "{npc:5087}",
+   "{npc:4926}"
+  ],
+  "title": "{area:496}"
+ },
+ {
+  "guide": "maxi-classic/horde/27-dustwallow-marsh-38-45",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18
+  ],
+  "titles": [
+   "{quest:1203}",
+   "{npc:4791}"
+  ],
+  "title": "{npc:4792}"
+ },
+ {
+  "guide": "maxi-classic/horde/28-stranglethorn-vale-39-44",
+  "step": 15,
+  "fix": "grouped",
+  "steps": [
+   15,
+   16
+  ],
+  "titles": [
+   "{npc:2490}",
+   "Sea Wolf MacKinley"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/horde/30-arathi-highlands-40-40",
+  "step": 10,
+  "fix": "grouped",
+  "steps": [
+   10,
+   11
+  ],
+  "titles": [
+   "{npc:2769}",
+   "{npc:2774}"
+  ],
+  "title": "{area:327}"
+ },
+ {
+  "guide": "maxi-classic/horde/33-stranglethorn-vale-42-45",
+  "step": 13,
+  "fix": "grouped",
+  "steps": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "titles": [
+   "{npc:737}",
+   "{npc:4452}",
+   "{npc:2488}",
+   "{npc:2487}"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/horde/33-stranglethorn-vale-42-45",
+  "step": 18,
+  "fix": "grouped",
+  "steps": [
+   18,
+   19
+  ],
+  "titles": [
+   "{npc:2519}",
+   "{npc:2497}"
+  ],
+  "title": "{area:117}"
+ },
+ {
+  "guide": "maxi-classic/horde/36-tanaris-44-46",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9
+  ],
+  "titles": [
+   "{npc:2498}",
+   "{npc:4454}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/horde/36-tanaris-44-46",
+  "step": 10,
+  "fix": "grouped",
+  "steps": [
+   10,
+   11,
+   12
+  ],
+  "titles": [
+   "{npc:4706}",
+   "{npc:4630}",
+   "{npc:4709}"
+  ],
+  "title": "{area:2240}"
+ },
+ {
+  "guide": "maxi-classic/horde/36-tanaris-44-46",
+  "step": 34,
+  "fix": "grouped",
+  "steps": [
+   34,
+   35
+  ],
+  "titles": [
+   "{npc:7882}",
+   "{npc:7881}"
+  ],
+  "title": "{area:977}"
+ },
+ {
+  "guide": "maxi-classic/horde/39-the-hinterlands-46-48",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22
+  ],
+  "titles": [
+   "{quest:7842}",
+   "{npc:14741}"
+  ],
+  "title": "{area:3317}"
+ },
+ {
+  "guide": "maxi-classic/horde/40-stranglethorn-vale-48-48",
+  "step": 7,
+  "fix": "grouped",
+  "steps": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/horde/40-stranglethorn-vale-48-48",
+  "step": 12,
+  "fix": "grouped",
+  "steps": [
+   12,
+   13,
+   14,
+   15
+  ],
+  "titles": [
+   "{npc:716}",
+   null,
+   "{npc:716}",
+   null
+  ],
+  "title": "{npc:716}"
+ },
+ {
+  "guide": "maxi-classic/horde/40-stranglethorn-vale-48-48",
+  "step": 17,
+  "fix": "grouped",
+  "steps": [
+   17,
+   18,
+   19
+  ],
+  "titles": [
+   "{npc:6807}",
+   "{npc:2498}",
+   "Sea Wolf MacKinley"
+  ],
+  "title": "{area:35}"
+ },
+ {
+  "guide": "maxi-classic/horde/41-searing-gorge-48-52",
+  "step": 15,
+  "fix": "grouped",
+  "steps": [
+   15,
+   16,
+   17
+  ],
+  "titles": [
+   "{npc:14627}",
+   "{npc:14626}",
+   "{npc:14624}"
+  ],
+  "title": "{area:1446}"
+ },
+ {
+  "guide": "maxi-classic/horde/41-searing-gorge-48-52",
+  "step": 19,
+  "fix": "grouped",
+  "steps": [
+   19,
+   20,
+   21
+  ],
+  "titles": [
+   "{quest:3453}",
+   "{npc:8479}",
+   "{quest:3462}"
+  ],
+  "title": "{npc:8479}"
+ },
+ {
+  "guide": "maxi-classic/horde/41-searing-gorge-48-52",
+  "step": 25,
+  "fix": "grouped",
+  "steps": [
+   25,
+   26
+  ],
+  "titles": [
+   "{quest:3481}",
+   null
+  ],
+  "title": "{quest:3481}"
+ },
+ {
+  "guide": "maxi-classic/horde/42-feralas-49-55",
+  "step": 21,
+  "fix": "grouped",
+  "steps": [
+   21,
+   22,
+   23
+  ],
+  "titles": [
+   "{npc:8115}",
+   "{quest:3129}",
+   "{npc:7854}"
+  ],
+  "title": "{area:1099}"
+ },
+ {
+  "guide": "maxi-classic/horde/43-swamp-of-sorrows-49-57",
+  "step": 4,
+  "fix": "grouped",
+  "steps": [
+   4,
+   5
+  ],
+  "titles": [
+   null,
+   "{npc:7572}"
+  ],
+  "title": "{npc:7572}"
+ },
+ {
+  "guide": "maxi-classic/horde/43-swamp-of-sorrows-49-57",
+  "step": 12,
+  "fix": "grouped",
+  "steps": [
+   12,
+   13
+  ],
+  "titles": [
+   null,
+   "{npc:7572}"
+  ],
+  "title": "{npc:7572}"
+ },
+ {
+  "guide": "maxi-classic/horde/45-tanaris-50-54",
+  "step": 15,
+  "fix": "grouped",
+  "steps": [
+   15,
+   16
+  ],
+  "titles": [
+   "{npc:7583}",
+   "{npc:5594}"
+  ],
+  "title": "{area:976}"
+ },
+ {
+  "guide": "maxi-classic/horde/46-azshara-51-56",
+  "step": 19,
+  "fix": "grouped",
+  "steps": [
+   19,
+   20,
+   21
+  ],
+  "titles": [
+   "{npc:8393}",
+   "{quest:3569}",
+   "{npc:5204}"
+  ],
+  "title": "{area:1497}"
+ },
+ {
+  "guide": "maxi-classic/horde/48-blasted-lands-52-55",
+  "step": 5,
+  "fix": "grouped",
+  "steps": [
+   5,
+   6
+  ],
+  "titles": [
+   "{npc:7506}",
+   "{npc:7505}"
+  ],
+  "title": "{npc:7506} and {npc:7505}"
+ },
+ {
+  "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+  "step": 2,
+  "fix": "grouped",
+  "steps": [
+   2,
+   3
+  ],
+  "titles": [
+   "{npc:7583}",
+   "{npc:7564}"
+  ],
+  "title": "{npc:7583}"
+ },
+ {
+  "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+  "step": 5,
+  "fix": "grouped",
+  "steps": [
+   5,
+   6
+  ],
+  "titles": [
+   "{npc:7564}",
+   "{quest:2662}"
+  ],
+  "title": "{npc:7564}"
+ },
+ {
+  "guide": "maxi-classic/horde/49-un-goro-crater-52-56",
+  "step": 55,
+  "fix": "grouped",
+  "steps": [
+   55,
+   56,
+   57,
+   58
+  ],
+  "titles": [
+   "{npc:9997}",
+   "{npc:9272}",
+   "{npc:9271}",
+   "{npc:9270}"
+  ],
+  "title": "{area:541}"
+ },
+ {
+  "guide": "maxi-classic/horde/50-burning-steppes-54-54",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9
+  ],
+  "titles": [
+   null,
+   "{npc:9459}"
+  ],
+  "title": "{npc:9459}"
+ },
+ {
+  "guide": "maxi-classic/horde/53-winterspring-55-58",
+  "step": 7,
+  "fix": "grouped",
+  "steps": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "titles": [
+   "{npc:11118}",
+   "{npc:10839}",
+   "{npc:10926}",
+   "{quest:4808}"
+  ],
+  "title": "{area:2255}"
+ },
+ {
+  "guide": "maxi-classic/horde/54-felwood-55-56",
+  "step": 13,
+  "fix": "grouped",
+  "steps": [
+   13,
+   14
+  ],
+  "titles": [
+   "{quest:4506}",
+   "{npc:9620}"
+  ],
+  "title": "{area:1997}"
+ },
+ {
+  "guide": "maxi-classic/horde/55-western-plaguelands-56-58",
+  "step": 8,
+  "fix": "grouped",
+  "steps": [
+   8,
+   9
+  ],
+  "titles": [
+   "{npc:10837}",
+   "{npc:10839}"
+  ],
+  "title": "{area:152}"
+ },
+ {
+  "guide": "maxi-classic/horde/57-eastern-plaguelands-57-60",
+  "step": 10,
+  "fix": "grouped",
+  "steps": [
+   10,
+   11
+  ],
+  "titles": [
+   "{quest:6026}",
+   "{npc:12636}"
+  ],
+  "title": "{npc:11033}"
+ }
+]
